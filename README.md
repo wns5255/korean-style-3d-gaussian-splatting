@@ -1,9 +1,12 @@
 # 🎨 Korean-style 3D Gaussian Splatting Pipeline
 
-![Unity](https://img.shields.io/badge/Unity-2022.3%2B-000000?style=flat-square&logo=unity)
-![C#](https://img.shields.io/badge/C%23-Language-239120?style=flat-square&logo=c-sharp)
-![GIS](https://img.shields.io/badge/GIS-DEM%20Data-blue?style=flat-square)
-![Platform](https://img.shields.io/badge/Platform-PC-lightgrey?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-CycleGAN%20Style%20Transfer-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![COLMAP](https://img.shields.io/badge/COLMAP-SfM%2FMVS-000000?style=flat-square&logo=github&logoColor=white)
+![3DGS](https://img.shields.io/badge/3DGS-Gaussian%20Splatting-111827?style=flat-square)
+![CUDA](https://img.shields.io/badge/CUDA-11.8%2B-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 
 > **영상/이미지 입력으로부터 3D Gaussian Splatting(3DGS) 기반 3D 장면을 재구성하고, CycleGAN 계열 스타일 변환을 결합해 “한국화 스타일 3D 결과물(PLY/SPLAT/MP4)”을 생성하는 End-to-End 자동화 파이프라인 프로젝트입니다.**
 
